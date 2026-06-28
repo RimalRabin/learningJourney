@@ -4,7 +4,7 @@ A Uniform Resource Locator (URL) is a web address that lets us access all kinds 
 
 Anatomy of a URL
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 key components:
     - Scheme: Defines the protocol used to access the resource (e.g., http, https, ftp).
